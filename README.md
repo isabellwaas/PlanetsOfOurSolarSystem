@@ -4,7 +4,7 @@
 ![macOS](https://img.shields.io/badge/macOS-passing-blue)
 
 ## Introduction
-**PlanetsOfOurSolarSystem** is an interactive infographic that let's you experience and compare the different sizes and distances of the planets of our solar system. You can zoom in and out of the graphic, move to the left and right to go from planet to planet and rotate each planet in order to see it from all sides.
+**PlanetsOfOurSolarSystem** is an interactive infographic that lets you experience and compare the different sizes and distances of the planets of our solar system. You can zoom in and out of the graphic, move to the left and right to go from planet to planet and rotate each planet in order to see it from all sides.
 <br>
 The graphic was developed as part of the Infographic module in the fifth semester of my studies. It uses the game engine [Unity](https://unity.com/) and all Scripts are written in C#. It runs on macOS and should run on Windows but I couldn't test it.
 <br><br>
