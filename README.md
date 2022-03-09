@@ -14,7 +14,7 @@ The graphic was developed as part of the Infographic module in the fifth semeste
 <br><br>
 
 ## Testing
-The graphic should run on macOS and Windows. However, I have only tested it on macOS so far and published a release for this operating system.
+The graphic should run on macOS and Windows. However, I have only tested it manually on macOS so far and published a release for this operating system.
 <br><br>
 
 ## Data
