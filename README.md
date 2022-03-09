@@ -8,8 +8,8 @@
 The graphic was developed as part of the Infographic module in the fifth semester of my studies. It uses the game engine [Unity](https://unity.com/) and all scripts are written in C#.
 <br>
 <p align="center">
+  <img src="https://github.com/isabellwaas/PlanetsOfOurSolarSystem/blob/main/screenvideos/zoom.gif" width=80% border=50%>
 <img src="https://github.com/isabellwaas/PlanetsOfOurSolarSystem/blob/main/screenvideos/move.gif" width=80% border=50%>
-<img src="https://github.com/isabellwaas/PlanetsOfOurSolarSystem/blob/main/screenvideos/zoom.gif" width=80% border=50%>
 <img src="https://github.com/isabellwaas/PlanetsOfOurSolarSystem/blob/main/screenvideos/rotate.gif" width=80% border=50%>
 <br><br>
 
