@@ -4,7 +4,7 @@
 
 ## Introduction
 **PlanetsOfOurSolarSystem** is an interactive infographic that lets you experience and compare the different sizes and distances of the planets of our solar system. With the arrow keys you can zoom in and out of the graphic and move to the left and right to go from planet to planet. When clicking a planet, moving your mouse and releasing the mouse button you can also rotate each planet in order to see it from all sides. You can try it out yourself [here](https://isabellwaas.github.io/PlanetsOfOurSolarSystem/).
-<br>
+<br><br>
 The graphic was developed as part of the Infographic module in the fifth semester of my studies. It uses the game engine [Unity](https://unity.com/) and all scripts are written in C#.
 <br>
 <p align="center">
